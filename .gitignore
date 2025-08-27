@@ -1,0 +1,14 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editors
+*.swp
+*.swo
+*~
+~$*
+
+# Logs / temp
+*.log
+*.tmp
+*.out
